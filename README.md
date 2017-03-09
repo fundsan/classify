@@ -1,4 +1,4 @@
-Jake Fund
+Sushi Sandwich Classifier
 ====================
 ##Instructions
 
