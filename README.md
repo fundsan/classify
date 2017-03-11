@@ -15,6 +15,8 @@ check the requirements.txt file or run it in your environment through using pip
 To train the model type in a terminal while in the correct directory: 
  > python train.py
 
+make sure you are running everything with python 2.7
+
 On the first run, the model will gather the pretrained graph and run the data through the model and save it to a file. The script will take some time to save the bottleneck files (about 20-30 minutes), but this will greatly speed up the training. You should see graphs produced similar to the ones below once the regular training has finished.
 
 To test on the model, type: 
